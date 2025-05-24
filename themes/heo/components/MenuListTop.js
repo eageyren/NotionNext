@@ -28,7 +28,16 @@ export const MenuListTop = props => {
       name: locale.NAV.ARCHIVE,
       href: '/archive',
       show: siteConfig('HEO_MENU_ARCHIVE', null, CONFIG)
+      },
+    {
+      id: 4,
+      icon: 'fas fa-gift',
+      name: 'Featival',
+      href: '/festival',
+      show: true
     }
+    }
+    
   ]
 
   if (customNav) {
