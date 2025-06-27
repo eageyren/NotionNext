@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '重塑我们的生活',
   HEO_HERO_TITLE_3: 'EAGEYREN.EDU',
   HEO_HERO_TITLE_4: '网站上线',
-  HEO_HERO_TITLE_5: 'EmberLeaf 1.0 版本',
+  HEO_HERO_TITLE_5: 'EmberLeaf 1.2 版本',
 
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
