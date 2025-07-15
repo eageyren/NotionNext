@@ -22,15 +22,15 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '重塑我们的生活',
   HEO_HERO_TITLE_3: 'EAGEYREN.EDU',
   HEO_HERO_TITLE_4: '网站上线',
-  HEO_HERO_TITLE_5: 'EmberLeaf 1.2 版本',
+  HEO_HERO_TITLE_5: 'EmberLeaf 2.2 版本',
 
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '期末备考', url: '/tag/期末备考' },
-  HEO_HERO_CATEGORY_2: { title: '还没想好', url: '/tag/还没想好' },
-  HEO_HERO_CATEGORY_3: { title: '名称暂定', url: '/tag/名称暂定' },
+  HEO_HERO_CATEGORY_2: { title: '实用技巧', url: '/tag/实用技巧' },
+  HEO_HERO_CATEGORY_3: { title: '探索日志', url: '/tag/探索日志' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
