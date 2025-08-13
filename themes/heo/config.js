@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '重塑我们的生活',
   HEO_HERO_TITLE_3: 'EAGEYREN.EDU',
   HEO_HERO_TITLE_4: '网站上线',
-  HEO_HERO_TITLE_5: 'EmberLeaf 2.2 版本',
+  HEO_HERO_TITLE_5: 'EmberLeaf 2.7 版本',
 
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -51,7 +51,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: '/joinus',
   HEO_INFO_CARD_ICON2: 'fas fa-users',
-  HEO_INFO_CARD_URL3: '/whatisit ',
+  HEO_INFO_CARD_URL3: '/about ',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
